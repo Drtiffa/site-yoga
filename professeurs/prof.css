@@ -90,3 +90,27 @@ h3 {
     font-size: 20px; 
     padding: 10px 450px 10px 0;
 }
+
+
+/*FOOTER*/
+footer {
+    background-color: #3b3a30;
+    width: 100%;
+    position: absolute;
+    color: white; 
+}
+
+.foot {
+    display: flex;
+    margin: 0px 550px;
+}
+
+.imgfoo {
+    margin: 10px 20px;
+}
+
+.foo {
+    text-decoration: none;
+    color: white;
+    margin: 15px 0px;
+}

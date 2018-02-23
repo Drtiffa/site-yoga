@@ -73,14 +73,6 @@ h4 {
     text-align: center;
 }
 
-
-
-
-
-
-
-
-
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
     width: 100%; /* Full width */
@@ -114,4 +106,29 @@ input[type=submit]:hover {
     background-color: #718093;
     padding: 20px;
     margin: 40px 100px 40px 100px;
+}
+
+
+
+/*FOOTER*/
+footer {
+    background-color: #3b3a30;
+    width: 100%;
+    position: absolute;
+    color: white; 
+}
+
+.foot {
+    display: flex;
+    margin: 0px 550px;
+}
+
+.imgfoo {
+    margin: 10px 20px;
+}
+
+.foo {
+    text-decoration: none;
+    color: white;
+    margin: 15px 0px;
 }

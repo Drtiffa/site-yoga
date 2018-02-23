@@ -69,7 +69,7 @@ h2 {
 
 .bloc {
     display: flex;
-    margin: 0px -100px 0px -100px;
+    margin: 0px -120px 0px -120px;
 }
 
 .cours {
@@ -110,4 +110,27 @@ h5 {
 
 h6 {
     margin: -10px 0px; 
+}
+
+/*FOOTER*/
+footer {
+    background-color: #3b3a30;
+    width: 100%;
+    position: absolute;
+    color: white; 
+}
+
+.foot {
+    display: flex;
+    margin: 0px 550px;
+}
+
+.imgfoo {
+    margin: 10px 20px;
+}
+
+.foo {
+    text-decoration: none;
+    color: white;
+    margin: 15px 0px;
 }
